@@ -7,7 +7,7 @@ Usando uma engine de jogo, executa a animação que criei para a música "Ela Ro
 
 
 ## Como executar
-Basta abrir o projeto em uma versão do NetBeans/Java equivalente e executar. Quando a janela aparecer, aperte <ENTER> para iniciar a música e a animação.
+Basta abrir o projeto em uma versão do NetBeans/Java equivalente e executar. Quando a janela aparecer, aperte ENTER para iniciar a música e a animação.
 
 
 ## Elementos da animação
