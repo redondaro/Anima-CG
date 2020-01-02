@@ -1,12 +1,12 @@
 # Anima-CG
-Meu trabalho de Computação Gráfica em 2006, desenvolvido em NetBeans com Java 8.
+Meu trabalho de Computação Gráfica em 2006. Desenvolvido em Java 8, na IDE NetBeans 8.
 
 
 ## O que esse projeto faz?
 Usando uma engine de jogo, executa uma animação que criei usando formas e transformações geométricas. Música: "Ela Roubou Meu Caminhão", do Matanza.
 
 
-## Como executar
+## Como executar?
 Basta abrir o projeto em uma versão do NetBeans/Java equivalente e executar. Quando a janela aparecer, aperte ENTER para iniciar a música e a animação.
 
 
@@ -17,4 +17,4 @@ Exceto pelos personagens e o logotipo "CG TV" (figuras abaixo), todos os demais 
 
 
 ## Vídeo
-Assista esta animação no [YouTube](https://www.youtube.com/watch?v=hWr0y8k9xOE)!
+Assista essa animação no [YouTube](https://www.youtube.com/watch?v=hWr0y8k9xOE)!
