@@ -2,8 +2,8 @@
 Meu trabalho de Computação Gráfica em 2006, desenvolvido em NetBeans com Java 8.
 
 
-## O que ele faz?
-Usando uma engine de jogo, executa a animação que criei para a música "Ela Roubou Meu Caminhão", do Matanza.
+## O que esse projeto faz?
+Usando uma engine de jogo, executa uma animação que criei usando formas e transformações geométricas. Música: "Ela Roubou Meu Caminhão", do Matanza.
 
 
 ## Como executar
