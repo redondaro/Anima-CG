@@ -3,7 +3,7 @@ Meu trabalho de Computação Gráfica em 2006. Desenvolvido em Java 8, na IDE Ne
 
 
 ## O que esse projeto faz?
-Usando uma engine de jogo, executa uma animação que criei usando formas e transformações geométricas. Música: "Ela Roubou Meu Caminhão", do Matanza.
+Usando uma engine de jogo, executa uma animação que criei usando retas, círculos, elipses e transformações em pontos geométricos. Música: "Ela Roubou Meu Caminhão", do Matanza.
 
 
 ## Como executar?
@@ -14,6 +14,10 @@ Basta abrir o projeto em uma versão do NetBeans/Java equivalente e executar. Qu
 Exceto pelos personagens e o logotipo "CG TV" (figuras abaixo), todos os demais elementos são desenhados usando formas e transformações geométricas.
 
 ![](src/Principal/objetos/log.png) ![](src/Principal/objetos/homem1.png) ![](src/Principal/objetos/homem2.png) ![](src/Principal/objetos/preso.png) ![](src/Principal/objetos/mulher1.png) ![](src/Principal/objetos/mulher2.png)
+
+
+## Informações técnicas
+Consultar o javadoc em dist/javadoc/index.html.
 
 
 ## Vídeo
